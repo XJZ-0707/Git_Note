@@ -3,6 +3,8 @@
 1. 在计算机环境变量下配置 D:\python（这是我的		Python3.7的安装目录）
 2. 创建python项目	
 ![python项目创建.jpg](0)
+
+
 ## 注释 
 1. 单行注释
 *  #注释的内容 如：#print("hello python!")
