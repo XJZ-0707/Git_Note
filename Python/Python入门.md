@@ -129,8 +129,7 @@ input （"提示信息"）
 ```
 
 * 输入的特点
-![python input输入.jpg](9)
-
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/01/python%20input%E8%BE%93%E5%85%A5-1567327611022.jpg)
 * 代码示例
 ```
 password = input('请输入密码：')
@@ -145,7 +144,7 @@ print(type(password))
 ```
 ## 转换数据类型
 * 转换数据类型的作用
-![python 转换数据类型作用.jpg](10)
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/01/python%20%E8%BD%AC%E6%8D%A2%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E4%BD%9C%E7%94%A8-1567327626968.jpg)
 
 * 数据类型转换表
 ![python数据类型转换.jpg](11)
