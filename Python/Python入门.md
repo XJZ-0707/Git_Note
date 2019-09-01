@@ -2,9 +2,7 @@
 ## 配置环境变量
 1. 在计算机环境变量下配置 D:\python（这是我的		Python3.7的安装目录）
 2. 创建python项目	
-![python项目创建.jpg](0)
-
-
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/01/python%E9%A1%B9%E7%9B%AE%E5%88%9B%E5%BB%BA-1567327350471.jpg)
 ## 注释 
 1. 单行注释
 *  #注释的内容 如：#print("hello python!")
