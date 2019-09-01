@@ -54,9 +54,9 @@ print(type(dic)) # <class 'dict'> dic 字典 键值对
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/01/python%E5%8F%98%E9%87%8F-1567327418576.jpg)
 ## 格式化符号
 * 格式化符号表
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/01/python%E6%A0%BC%E5%BC%8F%E5%8C%96%E7%AC%A6%E5%8F%B7-1567327451081.jpg)
 
-![python格式化符号.jpg](3)
-![python字符.jpg](4)
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/01/python%E5%AD%97%E7%AC%A6-1567327473338.jpg)
 
 * 代码示例
 ```language
