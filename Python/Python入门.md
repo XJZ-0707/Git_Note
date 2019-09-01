@@ -93,8 +93,8 @@ print(f'我的名字是{name}，今年{age +2}岁了')
 ```
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/01/python%20f%E8%A1%A8%E8%BE%BE%E5%BC%8F-1567327498667.jpg)
 * 转义字符
-	* ![python转义字符.jpg](6)
-	
+	*
+	![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/01/python%E8%BD%AC%E4%B9%89%E5%AD%97%E7%AC%A6-1567327547510.jpg)
 	* 示例代码：
 ```language
 	print('hello word')
