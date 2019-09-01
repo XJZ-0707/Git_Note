@@ -147,10 +147,7 @@ print(type(password))
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/01/python%20%E8%BD%AC%E6%8D%A2%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E4%BD%9C%E7%94%A8-1567327626968.jpg)
 
 * 数据类型转换表
-![python数据类型转换.jpg](11)
-
-
-![python项目创建.jpg](0)
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/01/python%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2-1567327640770.jpg)
 	
 
 
