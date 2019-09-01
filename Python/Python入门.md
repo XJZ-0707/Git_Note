@@ -51,7 +51,6 @@ print(type(dic)) # <class 'dict'> dic 字典 键值对
 
 
 * 变量总结 
-![python变量.jpg](1)
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/01/python%E5%8F%98%E9%87%8F-1567327418576.jpg)
 ## 格式化符号
 * 格式化符号表
