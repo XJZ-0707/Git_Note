@@ -28,8 +28,7 @@
 
 ## 认识数据类型
 * 数据类型如下：
-
-![python数据类型.jpg](1) 	
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/01/python%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B-1567327399671.jpg) 	
 * 数据类型代码示例：
 ```language
 num = 1
@@ -53,7 +52,7 @@ print(type(dic)) # <class 'dict'> dic 字典 键值对
 
 * 变量总结 
 ![python变量.jpg](1)
-
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/01/python%E5%8F%98%E9%87%8F-1567327418576.jpg)
 ## 格式化符号
 * 格式化符号表
 
