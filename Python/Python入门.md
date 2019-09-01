@@ -27,7 +27,9 @@
 2. 特点：
 
 ## 认识数据类型
-* 数据类型如下：![python数据类型.jpg](1) 	
+* 数据类型如下：
+
+![python数据类型.jpg](1) 	
 * 数据类型代码示例：
 ```language
 num = 1
@@ -54,6 +56,7 @@ print(type(dic)) # <class 'dict'> dic 字典 键值对
 
 ## 格式化符号
 * 格式化符号表
+
 ![python格式化符号.jpg](3)
 ![python字符.jpg](4)
 
