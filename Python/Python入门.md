@@ -118,10 +118,10 @@ print('Python')
 hello
 word	hello....Python
 ```
-![python结束符.jpg](7)
-* 总结
-![python格式化总结.jpg](8)
 
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/01/python%E7%BB%93%E6%9D%9F%E7%AC%A6-1567327581501.jpg)
+* 总结
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/01/python%E6%A0%BC%E5%BC%8F%E5%8C%96%E6%80%BB%E7%BB%93-1567327593118.jpg)
 ## 输入
 * 输入的语法
 ```
