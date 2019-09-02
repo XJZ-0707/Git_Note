@@ -148,6 +148,8 @@ print(type(password))
 
 * 数据类型转换表
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/01/python%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2-1567327640770.jpg)
+
+![psb 1.jpg](0)
 	
 
 
