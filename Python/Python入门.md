@@ -160,7 +160,7 @@ print(type(password))
    num = 1
    print （num）
    * 多个变量赋值
-
+   
 
 
 	
