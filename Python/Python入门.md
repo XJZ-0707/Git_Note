@@ -160,7 +160,7 @@ print(type(password))
    num = 1
    print （num）
    * 多个变量赋值
-```language
+```
 num1, num2, str1 = 1, 1.1, 'abc'
 print(num1, num2, str1)
 
