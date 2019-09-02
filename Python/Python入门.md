@@ -178,4 +178,4 @@ print(num1, num2, str1)
 
 ## 条件语句 
 1. 语法
-
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/02/python%20if%E8%AF%AD%E5%8F%A5%E7%9A%84%E8%AF%AD%E6%B3%95-1567390152771.jpg)
