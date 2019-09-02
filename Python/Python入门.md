@@ -186,9 +186,11 @@ if True:
 # 注意，在这个下方的没有加缩进的代码，不属于if语句块，即和条件成立无关
 print('不缩进，也执行')
 ```
-   * 注意：input的返回类型是"str"
-```language
-
+   * 注意：input的返回类型是"str",用int转换类型
+```
+age = int(input('请输入年龄：'))
+if age >= 18:
+    print(f'年龄是{age},可以上网')
 ```
 
 
