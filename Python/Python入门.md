@@ -158,7 +158,8 @@ print(type(password))
 2. 赋值运算符
    * 单个变量赋值
    num = 1
-   
+   print （num）
+   * 
 
 
 	
