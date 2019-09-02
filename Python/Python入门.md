@@ -159,7 +159,8 @@ print(type(password))
    * 单个变量赋值
    num = 1
    print （num）
-   * 
+   * 多个变量赋值
+
 
 
 	
