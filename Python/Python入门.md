@@ -183,7 +183,6 @@ print(num1, num2, str1)
 if True:
     print('nihao')
     print('buhao')
-
 # 注意，在这个下方的没有加缩进的代码，不属于if语句块，即和条件成立无关
 print('不缩进，也执行')
 ```
