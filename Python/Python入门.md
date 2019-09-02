@@ -173,7 +173,6 @@ print(num1, num2, str1)
 
 5. 逻辑运算符
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/02/python%E9%80%BB%E8%BE%91%E8%BF%90%E7%AE%97%E7%AC%A6-1567389501704.jpg)
-
-   5.1 
+* 拓展：数字
 
 
