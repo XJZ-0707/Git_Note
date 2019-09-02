@@ -155,7 +155,9 @@ print(type(password))
 1. 算数运算符
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/02/python%E8%BF%90%E7%AE%97%E7%AC%A62-1567388551393.jpg)
 
-2. 
+2. 赋值运算符
+
+
 	
 
 
