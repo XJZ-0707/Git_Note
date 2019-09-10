@@ -96,7 +96,7 @@
 
 
 
-
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/10/QQ%E5%9B%BE%E7%89%8720190910200541-1568117305151.png)
 ## Request：
 	1. request对象和response对象的原理
 		1. request和response对象是由服务器创建的。我们来使用它们
@@ -110,7 +110,6 @@
 		org.apache.catalina.connector.RequestFacade 类(tomcat)
 
 	3. request功能：
-![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/10/QQ%E5%9B%BE%E7%89%8720190910200541-1568117305151.png)
 	1. 获取请求消息数据
 			1. 获取请求行数据
 				* GET /day14/demo1?name=zhangsan HTTP/1.1
