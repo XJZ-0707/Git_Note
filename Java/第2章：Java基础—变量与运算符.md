@@ -119,3 +119,4 @@ char 数据类型可以储存任何字符；
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/13/%E6%AF%94%E8%BE%83%E8%BF%90%E7%AE%97%E7%AC%A6-1568384461665.jpg)
 * 位运算符
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/13/%E4%BD%8D%E8%BF%90%E7%AE%97%E7%AC%A6-1568384816221.jpg)
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/13/%E4%BD%8D%E8%BF%90%E7%AE%97%E7%AC%A62-1568384900750.jpg)
