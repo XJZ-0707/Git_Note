@@ -41,6 +41,7 @@
 	* 声明和赋值变量
 		 语法： <数据类型> <变量名> = <初始化值>
 		 例如：int var = 10;
+
 	
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/13/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B-1568379167832.jpg)
 
