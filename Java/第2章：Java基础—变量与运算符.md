@@ -7,5 +7,6 @@
 		![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/13/%E5%85%B3%E9%94%AE%E5%AD%972-1568373621049.jpg)
 
 # 2.2 标识符(Identifier)
-* 
- * 
+* 标识符：
+Java 对各种变量、方法和类等要素命名时使用的字符序列称为标识符
+技巧：凡是自己可以起名字的地方都叫标识符。
