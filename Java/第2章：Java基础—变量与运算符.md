@@ -112,4 +112,7 @@ char 数据类型可以储存任何字符；
 
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/13/Boolean-1568379774693.jpg)
 # 2-4 运算符
+* 算数运算符
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/13/%E7%AE%97%E6%9C%AF%E8%BF%90%E7%AE%97%E7%AC%A6-1568384345017.jpg)
+
+* 
