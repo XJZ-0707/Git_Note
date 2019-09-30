@@ -80,11 +80,11 @@ cmd 执行 mvn test 执行 src/test/java 下单元测试类，下图为测试结
 3.2.2 idea 中创建一个 maven 的 web 工程
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven12-1569851010218.jpg)
 ........省略一些步骤
-点击 Finish 后开始创建工程，耐心等待，直到出现如下界面。
+* 点击 Finish 后开始创建工程，耐心等待，直到出现如下界面。
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven13-1569851104333.jpg)
 手动添加 src/main/java 目录，如下图右键 main 文件夹->New->Directory
-
-
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven14-1569851159780.jpg)
+点击 OK 后，在新的文件夹 java 上右键Make Directory asSources Root
 
 
 
