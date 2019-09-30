@@ -75,5 +75,5 @@ cmd 执行 mvn test 执行 src/test/java 下单元测试类，下图为测试结
 ## 3.2 idea 开发 maven 项目
 
 ### 3.2.1 idea 的 maven 配置
-#### 3.2.1.1 打开FileSettings 配置 maven
+#### 3.2.1.1 打开->File->Settings 配置 maven
 
