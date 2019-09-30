@@ -168,8 +168,19 @@ http://mvnrepository.com/
 * 如上图红框选中的两个按钮，左侧是正常启动，右侧是 debug 启动。
 
 # 第5章 总结
-
-
+## 5.1 maven 仓库
+	1、maven 仓库的类型有哪些？
+	2、maven 工程查找仓库的流程是什么？
+	3、本地仓库如何配置？
+## 5.2 常用的 maven 命令
+	常用 的 maven 命令包括：
+	compile：编译
+	clean：清理
+	test：测试
+	package：打包
+	install：安装
+##  5.3 坐标定义
+* 在 pom.xml 中定义坐标，内容包括：groupId、artifactId、version，详细内容如下：
 
 
 
