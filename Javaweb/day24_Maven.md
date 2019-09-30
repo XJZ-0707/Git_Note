@@ -149,13 +149,32 @@ http://mvnrepository.com/
 ### 3.2.6 编写 servlet
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven20-1569852049657.jpg)
 ### 3.2.7 编写 jsp
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven21-1569852084074.jpg)
+
+### 3.2.8 在 web.xml 中配置 servlet 访问路径
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven22-1569852119602.jpg)
+
+# 第4章 maven 工程运行调试
+## 4.1 端口占用处理
+* 重新执行 tomcat:run 命令重启工程，重启之前需手动停止 tomcat，否则报下边的错误：
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven23-1569852318834.jpg)
+## 4.2 断点调试'
+* 点击如图所示选项
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven24-1569852386297.jpg)
+* 在弹出框中点击如图加号按钮找到 maven 选项
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven25-1569852415436.jpg)
+* 在弹出窗口中填写如下信息
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven26-1569852448533.jpg)
+* 如上图红框选中的两个按钮，左侧是正常启动，右侧是 debug 启动。
+
+# 第5章 总结
 
 
 
 
 
 
-
+ 
 
 
 
