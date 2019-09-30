@@ -67,7 +67,10 @@ cmd 执行 mvn test 执行 src/test/java 下单元测试类，下图为测试结
 ### 3.1.4 package
 * package 是 maven 工程的打包命令，对于 java 工程执行 package 打成 jar 包，对于 web 工程打成 war包。
 
-
+### 3.1.5 install
+* install 是 maven 工程的安装命令，执行 install 将 maven 打成 jar 包或 war 包发布到本地仓库。
+从运行结果中，可以看出：
+当后面的命令执行时，前面的操作过程也都会自动执行，
 
 
 
