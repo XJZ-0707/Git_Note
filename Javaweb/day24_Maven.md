@@ -64,6 +64,8 @@ cmd 执行 mvn test 执行 src/test/java 下单元测试类，下图为测试结
 
 ### 3.1.3 clean
 * clean 是 maven 工程的清理命令，执行 clean 会删除 target 目录及内容。
+### 3.1.4 package
+* package 是 maven 工程的打包命令，对于 java 工程执行 package 打成 jar 包，对于 web 工程打成 war包。
 
 
 
