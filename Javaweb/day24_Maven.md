@@ -147,8 +147,8 @@ http://mvnrepository.com/
 </build>
 ```
 ### 3.2.6 编写 servlet
-
-
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven20-1569852049657.jpg)
+### 3.2.7 编写 jsp
 
 
 
