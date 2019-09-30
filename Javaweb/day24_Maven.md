@@ -121,11 +121,12 @@ http://mvnrepository.com/
 在 maven-web 工程中测试各各 scop。
 测试总结：
 	*  默认引入 的 jar 包 ------- compile 【默认范围 可以不写】（编译、测试、运行 都有效 ）
- servlet-api 、jsp-api ------- provided （编译、测试 有效， 运行时无效 防止和 tomcat 下 jar 冲突）
- jdbc 驱动 jar 包 ---- runtime （测试、运行 有效 ）
- junit ----- test （测试有效）
+	*  servlet-api 、jsp-api ------- provided （编译、测试 有效， 运行时无效 防止和 tomcat 下 jar 冲突）
+	*  jdbc 驱动 jar 包 ---- runtime （测试、运行 有效 ）
+	*  junit ----- test （测试有效）
 依赖范围由强到弱的顺序是：compile>provided>runtime>test
 
+### 3.2.4 项目中添加的坐标
 
 
 
