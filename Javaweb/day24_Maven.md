@@ -118,6 +118,13 @@ http://mvnrepository.com/
 	* test：test 范围依赖 在编译和运行时都不需要，它们只有在测试编译和测试运行阶段可用，比如：junit。由于运行时不需要所以 test范围依赖不会被打包。
 	* system：system 范围依赖与 provided 类似，但是你必须显式的提供一个对于本地系统中 JAR文件的路径，需要指定systemPath 磁盘路径，system依赖不推荐使用。
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven18-1569851734634.jpg)
+在 maven-web 工程中测试各各 scop。
+测试总结：
+	*  默认引入 的 jar 包 ------- compile 【默认范围 可以不写】（编译、测试、运行 都有效 ）
+ servlet-api 、jsp-api ------- provided （编译、测试 有效， 运行时无效 防止和 tomcat 下 jar 冲突）
+ jdbc 驱动 jar 包 ---- runtime （测试、运行 有效 ）
+ junit ----- test （测试有效）
+依赖范围由强到弱的顺序是：compile>provided>runtime>test
 
 
 
