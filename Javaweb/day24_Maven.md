@@ -21,8 +21,9 @@ lib:存放了 maven 本身运行所需的一些 jar 包
 电脑上需安装 java 环境，安装 JDK1.7 + 版本（JAVA_HOME/bin 配置环境变量 path ），我们使用的是 JDK8 相关版本
 配置 MAVEN_HOME ，变量值就是你的 maven 安装 的路径（bin 目录之前一级目录）
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven3-1569843278893.jpg)
+上面配置了我们的 Maven 软件，注意这个目录就是之前你解压 maven 的压缩文件包在的的目录，最好不要有中文和空格。
 
-
+## 2.1.5 Maven 软件版本测试
 
 
 
