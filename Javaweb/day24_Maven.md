@@ -129,6 +129,11 @@ http://mvnrepository.com/
 ### 3.2.4 项目中添加的坐标
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven19-1569851884085.jpg)
 
+### 3.2.5 设置 jdk 编译版本
+* 本教程使用 jdk1.8，需要设置编译版本为 1.8，这里需要使用 maven 的插件来设置：在 pom.xml 中加入：
+```java
+
+```
 
 
 
