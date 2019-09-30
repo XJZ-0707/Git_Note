@@ -86,6 +86,7 @@ cmd 执行 mvn test 执行 src/test/java 下单元测试类，下图为测试结
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven14-1569851159780.jpg)
 * 点击 OK 后，在新的文件夹 java 上右键-->Make Directory as-->Sources Root
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven15-1569851227770.jpg)
+### 3.2.2.1 创建一个 Servlet
 
 
 
