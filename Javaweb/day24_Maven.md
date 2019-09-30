@@ -78,3 +78,5 @@ cmd 执行 mvn test 执行 src/test/java 下单元测试类，下图为测试结
 #### 3.2.1.1 打开->File->Settings 配置 maven
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven11-1569846099937.jpg)
 3.2.2 idea 中创建一个 maven 的 web 工程
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven12-1569851010218.jpg)
+
