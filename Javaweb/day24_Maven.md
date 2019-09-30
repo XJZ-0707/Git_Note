@@ -43,7 +43,13 @@ maven 的工作需要从仓库下载一些 jar 包，如下图所示，本地的
 * 作为一个 maven 工程，它的 src 目录和 pom.xml 是必备的。
 进入 src 目录后，我们发现它里面的目录结构如下：
 
-
+src/main/java —— 存放项目的.java 文件
+src/main/resources —— 存放项目资源文件，如 spring, hibernate 配置文件
+src/test/java —— 存放所有单元测试.java 文件，如 JUnit 测试类
+src/test/resources —— 测试资源文件
+target —— 项目输出位置，编译后的 class 文件会输出到此目录
+pom.xml——maven 项目核心配置文件
+注意：如果是普通的 java 项目，那么就没有 webapp 目录。
 
 
 
