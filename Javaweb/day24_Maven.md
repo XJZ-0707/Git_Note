@@ -6,3 +6,5 @@
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven1-1569841287184.jpg)
 
 # 第2章 Maven 的使用 
+## 2.1.1 Maven 软件的下载
+* 去官网
