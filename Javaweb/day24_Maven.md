@@ -40,3 +40,19 @@ maven 的工作需要从仓库下载一些 jar 包，如下图所示，本地的
 
 ### 2.3.1 Maven 工程的目录结构
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven7-1569844181745.jpg)
+* 作为一个 maven 工程，它的 src 目录和 pom.xml 是必备的。
+进入 src 目录后，我们发现它里面的目录结构如下：
+
+
+
+
+
+
+
+
+
+
+
+
+
+
