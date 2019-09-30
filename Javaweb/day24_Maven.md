@@ -6,9 +6,10 @@
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven1-1569841287184.jpg)
 
 # 第2章 Maven 的使用 
-## 2.1.1 Maven 软件的下载
+## 2.1 Maven 的安装
+### 三级标题 2.1.1 Maven 软件的下载
 * 去官网下载
-## 2.1.2 Maven 软件的安装
+### 2.1.2 Maven 软件的安装
 * Maven 下载后，将 Maven 解压到一个没有中文没有空格的路径下，比如 D:\software\maven 下面。
 解压后目录结构如下：
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven2-1569843137961.jpg)
