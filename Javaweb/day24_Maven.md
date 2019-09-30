@@ -111,7 +111,18 @@ pom ：用于 maven 工程的继承，通常父工程设置为 pom
 http://mvnrepository.com/
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven17-1569851465978.jpg)
 ### 3.2.3 依赖范围
-A 依赖 B，需要在 A 的 pom.xml 文件中添加 B 的坐标，添加坐标时需要指定依赖范围，依赖范围包括：
+* A 依赖 B，需要在 A 的 pom.xml 文件中添加 B 的坐标，添加坐标时需要指定依赖范围，依赖范围包括：
+compile：编译范围，指 A 在编译时依赖 B，此范围为默认依赖范围。编译范围的依赖会用在
+编译、测试、运行，由于运行时需要所以编译范围的依赖会被打包。
+ provided：provided 依赖只有在当 JDK 或者一个容器已提供该依赖之后才使用， provided 依
+赖在编译和测试时需要，在运行时不需要，比如：servlet api 被 tomcat 容器提供。
+ runtime：runtime 依赖在运行和测试系统的时候需要，但在编译的时候不需要。比如：jdbc
+的驱动包。由于运行时需要所以 runtime 范围的依赖会被打包。
+ test：test 范围依赖 在编译和运行时都不需要，它们只有在测试编译和测试运行阶段可用，
+比如：junit。由于运行时不需要所以 test范围依赖不会被打包。
+
+ system：system 范围依赖与 provided 类似，但是你必须显式的提供一个对于本地系统中 JAR
+文件的路径，需要指定 systemPath 磁盘路径，system依赖不推荐使用。
 
 
 
