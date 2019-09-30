@@ -181,8 +181,20 @@ http://mvnrepository.com/
 	install：安装
 ##  5.3 坐标定义
 * 在 pom.xml 中定义坐标，内容包括：groupId、artifactId、version，详细内容如下：
+```java
+<!--项目名称，定义为组织名+项目名，类似包名-->
+<groupId>cn.itcast.maven</groupId>
+<!-- 模块名称 -->
+<artifactId>maven-first</artifactId>
+<!-- 当前项目版本号，snapshot 为快照版本即非正式版本，release 为正式发布版本 -->
+<version>0.0.1-SNAPSHOT</version>
+<packaging > ：打包类型
+jar：执行 package 会打成 jar 包
+war：执行 package 会打成 war 包
+pom ：用于 maven 工程的继承，通常父工程设置为 pom
+```
 
-
+5.4 pom 基本配置
 
 
  
