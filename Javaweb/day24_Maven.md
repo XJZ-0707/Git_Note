@@ -42,8 +42,8 @@ maven 的工作需要从仓库下载一些 jar 包，如下图所示，本地的
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven7-1569844181745.jpg)
 * 作为一个 maven 工程，它的 src 目录和 pom.xml 是必备的。
 进入 src 目录后，我们发现它里面的目录结构如下：
-
-src/main/java —— 存放项目的.java 文件
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven8-1569844362656.jpg)
+* src/main/java —— 存放项目的.java 文件
 src/main/resources —— 存放项目资源文件，如 spring, hibernate 配置文件
 src/test/java —— 存放所有单元测试.java 文件，如 JUnit 测试类
 src/test/resources —— 测试资源文件
