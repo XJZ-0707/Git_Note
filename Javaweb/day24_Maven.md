@@ -92,6 +92,18 @@ cmd 执行 mvn test 执行 src/test/java 下单元测试类，下图为测试结
 ### 3.2.2.2 在 pom.xml 文件添加坐标
 * 直接打开 hello_maven 工程的 pom.xml 文件，再添加坐标
 	* 添加 jar 包的坐标时，还可以指定这个 jar 包将来的作用范围。每个 maven 工程都需要定义本工程的坐标，坐标是 maven 对 jar 包的身份定义，比如：入门程序的坐标定义如下：
+```java
+<!--项目名称，定义为组织名+项目名，类似包名-->
+<groupId>com.itheima</groupId>
+<!-- 模块名称 -->
+<artifactId>hello_maven</artifactId>
+<!-- 当前项目版本号，snapshot 为快照版本即非正式版本，release 为正式发布版本 -->
+<version>0.0.1-SNAPSHOT</version>
+<packaging > ：打包类型
+jar：执行 package 会打成 jar 包
+war：执行 package 会打成 war 包
+pom ：用于 maven 工程的继承，通常父工程设置为 pom
+```
 
 
 
