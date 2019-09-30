@@ -127,6 +127,9 @@ http://mvnrepository.com/
 依赖范围由强到弱的顺序是：compile>provided>runtime>test
 
 ### 3.2.4 项目中添加的坐标
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven19-1569851884085.jpg)
+
+
 
 
 
