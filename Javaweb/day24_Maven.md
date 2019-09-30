@@ -110,6 +110,20 @@ pom ：用于 maven 工程的继承，通常父工程设置为 pom
 * http://search.maven.org/
 http://mvnrepository.com/
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven17-1569851465978.jpg)
+### 3.2.3 依赖范围
+A 依赖 B，需要在 A 的 pom.xml 文件中添加 B 的坐标，添加坐标时需要指定依赖范围，依赖范围包括：
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
