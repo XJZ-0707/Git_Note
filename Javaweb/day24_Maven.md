@@ -39,3 +39,4 @@ maven 的工作需要从仓库下载一些 jar 包，如下图所示，本地的
 ## 2.3 Maven 工程的认识
 
 ### 2.3.1 Maven 工程的目录结构
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven7-1569844181745.jpg)
