@@ -57,7 +57,9 @@ pom.xml——maven 项目核心配置文件
 * compile 是 maven 工程的编译命令，作用是将 src/main/java 下的文件编译为 class 文件输出到 target目录下。
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven9-1569844765904.jpg)
 
-
+### 3.1.2 test
+* test 是 maven 工程的测试命令 mvn test，会执行 src/test/java 下的单元测试类。
+cmd 执行 mvn test 执行 src/test/java 下单元测试类，下图为测试结果，运行 1 个测试用例，全部成功
 
 
 
