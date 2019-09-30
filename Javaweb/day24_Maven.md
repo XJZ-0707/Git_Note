@@ -18,13 +18,13 @@ boot:存放了一些 maven 本身的引导程序，如类加载器等
 conf:存放了 maven 的一些配置文件，如 setting.xml 文件
 lib:存放了 maven 本身运行所需的一些 jar 包
 至此我们的 maven 软件就可以使用了，前提是你的电脑上之前已经安装并配置好了 JDK。
-## 2.1.4 Maven 及 JDK 配置
+### 2.1.4 Maven 及 JDK 配置
 电脑上需安装 java 环境，安装 JDK1.7 + 版本（JAVA_HOME/bin 配置环境变量 path ），我们使用的是 JDK8 相关版本
 配置 MAVEN_HOME ，变量值就是你的 maven 安装 的路径（bin 目录之前一级目录）
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven3-1569843278893.jpg)
 上面配置了我们的 Maven 软件，注意这个目录就是之前你解压 maven 的压缩文件包在的的目录，最好不要有中文和空格。
 
-## 2.1.5 Maven 软件版本测试
+### 2.1.5 Maven 软件版本测试
 通过 mvn -v命令检查 maven 是否安装成功，看到 maven 的版本为 3.5.2 及 java 版本为 1.8 即为安装成功。
 找开 cmd 命令，输入 mvn –v命令，如下图：
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven5-1569843383159.jpg)
