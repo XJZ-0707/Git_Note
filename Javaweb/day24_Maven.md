@@ -50,6 +50,8 @@ src/test/resources —— 测试资源文件
 target —— 项目输出位置，编译后的 class 文件会输出到此目录
 pom.xml——maven 项目核心配置文件
 注意：如果是普通的 java 项目，那么就没有 webapp 目录。
+## 第3章 Maven 常用命令 
+我们可以在 cmd 中通过一系列的 maven 命令来对我们的 maven-helloworld 工程进行编译、测试、运行、打包、安装、部署。
 
 
 
