@@ -117,7 +117,7 @@ http://mvnrepository.com/
 	* runtime：runtime 依赖在运行和测试系统的时候需要，但在编译的时候不需要。比如：jdbc的驱动包。由于运行时需要所以 runtime 范围的依赖会被打包。
 	* test：test 范围依赖 在编译和运行时都不需要，它们只有在测试编译和测试运行阶段可用，比如：junit。由于运行时不需要所以 test范围依赖不会被打包。
 	* system：system 范围依赖与 provided 类似，但是你必须显式的提供一个对于本地系统中 JAR文件的路径，需要指定systemPath 磁盘路径，system依赖不推荐使用。
-
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven18-1569851734634.jpg)
 
 
 
