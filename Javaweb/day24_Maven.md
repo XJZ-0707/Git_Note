@@ -85,7 +85,7 @@ cmd 执行 mvn test 执行 src/test/java 下单元测试类，下图为测试结
 * 手动添加 src/main/java 目录，如下图右键 main 文件夹->New-->Directory
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven14-1569851159780.jpg)
 * 点击 OK 后，在新的文件夹 java 上右键-->Make Directory as-->Sources Root
-
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven15-1569851227770.jpg)
 
 
 
