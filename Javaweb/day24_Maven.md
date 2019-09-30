@@ -28,6 +28,7 @@ lib:存放了 maven 本身运行所需的一些 jar 包
 通过 mvn -v命令检查 maven 是否安装成功，看到 maven 的版本为 3.5.2 及 java 版本为 1.8 即为安装成功。
 找开 cmd 命令，输入 mvn –v命令，如下图：
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven5-1569843383159.jpg)
+## 2.2 Maven 仓库
 
 
 
