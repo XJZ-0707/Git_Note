@@ -89,6 +89,9 @@ cmd 执行 mvn test 执行 src/test/java 下单元测试类，下图为测试结
 ### 3.2.2.1 创建一个 Servlet
 * src/java/main 创建了一个 Servlet，但报错
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/09/30/maven16-1569851289545.jpg)
+### 3.2.2.2 在 pom.xml 文件添加坐标
+* 直接打开 hello_maven 工程的 pom.xml 文件，再添加坐标
+	* 添加 jar 包的坐标时，还可以指定这个 jar 包将来的作用范围。每个 maven 工程都需要定义本工程的坐标，坐标是 maven 对 jar 包的身份定义，比如：入门程序的坐标定义如下：
 
 
 
