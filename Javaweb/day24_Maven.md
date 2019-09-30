@@ -132,7 +132,17 @@ http://mvnrepository.com/
 ### 3.2.5 设置 jdk 编译版本
 * 本教程使用 jdk1.8，需要设置编译版本为 1.8，这里需要使用 maven 的插件来设置：在 pom.xml 中加入：
 ```java
-
+ <build>
+<plugins>
+  <plugin>
+   <groupId>org.apache.maven.plugins</groupId>
+   <artifactId>maven-compiler-plugin</artifactId>
+   <configuration>
+<source>1.8</source>
+<target>1.8</target>
+<encoding>UTF-8</encoding>
+</configuration>
+</plugin>
 ```
 
 
