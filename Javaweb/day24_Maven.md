@@ -196,7 +196,11 @@ pom ：用于 maven 工程的继承，通常父工程设置为 pom
 
 ## 5.4 pom 基本配置
 pom.xml 是 Maven 项目的核心配置文件，位于每个工程的根目录，基本配置如下：
-<project > ：文件的根节点 .
+```java
+
+```
+
+<project>文件的根节点 .
 <modelversion > ： pom.xml 使用的对象模型版本
 <groupId > ：项目名称，一般写项目的域名
 <artifactId > ：模块名称，子项目名或模块名称
