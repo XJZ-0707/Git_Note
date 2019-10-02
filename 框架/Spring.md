@@ -15,8 +15,9 @@
 可以用非容器依赖的编程方式进行几乎所有的测试工作，测试不再是昂贵的操作，而是随手可做的事情。
 * 方便集成各种优秀框架
 Spring 可以降低各种框架的使用难度，提供了对各种优秀框架（Struts、Hibernate、Hessian、Quartz等）的直接支持。
-降低 JavaEE API 的使用难度Spring 对 JavaEE API（如 JDBC、JavaMail、远程调用等）进行了薄薄的封装层，使这些 API 的使用难度大为降低。
-Java 源码是经典学习范例
+* 降低 JavaEE API 的使用难度
+Spring 对 JavaEE API（如 JDBC、JavaMail、远程调用等）进行了薄薄的封装层，使这些 API 的使用难度大为降低。
+* Java 源码是经典学习范例
 Spring 的源代码设计精妙、结构清晰、匠心独用，处处体现着大师对 Java 设计模式灵活运用以
 及对 Java 技术的高深造诣。它的源代码无意是 Java 技术的最佳实践的范例。
 
