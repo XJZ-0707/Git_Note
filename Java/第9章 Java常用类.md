@@ -212,6 +212,16 @@ int lastIndexOf(String str, int fromIndex)：返回指定子字符串在此字�
 注：indexOf和lastIndexOf方法如果未找到都是返回-1
 
 String常用方法3:
+替换：
+String replace(char oldChar, char newChar)：返回一个新的字符串，它是通过用 newChar 替换此字符串中出现的所有 oldChar 得到的。
+String replace(CharSequence target, CharSequence replacement)：使用指定的字面值替换序列替换此字符串所有匹配字面值目标序列的子字符串。
+String replaceAll(String regex, String replacement)：使用给定的 replacement 替换此字符串所有匹配给定的正则表达式的子字符串。
+String replaceFirst(String regex, String replacement)：使用给定的 replacement 替换此字符串匹配给定的正则表达式的第一个子字符串。
+匹配:
+boolean matches(String regex)：告知此字符串是否匹配给定的正则表达式。
+切片：
+String[] split(String regex)：根据给定正则表达式的匹配拆分此字符串。
+String[] split(String regex, int limit)：根据匹配给定的正则表达式来拆分此字符串，最多不超过limit个，如果超过了，剩下的全部都放到最后一个元素中。
 
 
 ```
