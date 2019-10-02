@@ -22,4 +22,5 @@ Spring 的源代码设计精妙、结构清晰、匠心独用，处处体现着�
 
 ### 1.1.4 spring 的体系结构
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/02/spring-overview-1570014469536.png)
+## 第2章 IoC 的概念和作用
 
