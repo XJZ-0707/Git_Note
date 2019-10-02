@@ -183,7 +183,7 @@ best
 ### String常用方法
 
 ```java
-
+String常用方法1:
 int length()：返回字符串的长度： return value.length
 char charAt(int index)： 返回某索引处的字符return value[index]
 boolean isEmpty()：判断是否是空字符串：return value.length == 0
@@ -198,7 +198,7 @@ String substring(int beginIndex)：返回一个新的字符串，它是此字符
 String substring(int beginIndex, int endIndex) ：返回一个新字符串，它是此字符串从beginIndex开始截取到endIndex(不包含)的一个子字符串。
 
 
-
+String常用方法2:
 boolean endsWith(String suffix)：测试此字符串是否以指定的后缀结束
 boolean startsWith(String prefix)：测试此字符串是否以指定的前缀开始
 boolean startsWith(String prefix, int toffset)：测试此字符串从指定索引开始的子字符串是否以指定前缀开始
@@ -211,7 +211,7 @@ int lastIndexOf(String str, int fromIndex)：返回指定子字符串在此字�
 
 注：indexOf和lastIndexOf方法如果未找到都是返回-1
 
-
+String常用方法3:
 
 
 ```
