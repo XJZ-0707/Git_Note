@@ -407,6 +407,7 @@ String substring(int beginIndex, int endIndex) ：返回一个新字符串，它
 
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/03/string14-1570074952833.jpg)
 
+### 涉及到String类与其他结构之间的转换
 ```java
 package com_2.day03.java;
 
