@@ -577,7 +577,7 @@ public class StringTest1 {
         System.out.println(sb2.length());//0
     }
 ```
-
+### StringBuffer的常用方法：
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/03/string17-1570104766815.jpg)
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/03/sting18-1570104804825.jpg)
 
