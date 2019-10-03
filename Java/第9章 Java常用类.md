@@ -400,9 +400,9 @@ String substring(int beginIndex, int endIndex) ：返回一个新字符串，它
 
 
 ```
-
+## String与基本数据类型转换
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/03/string12-1570074784893.jpg)
-
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/03/string13-1570074871743.jpg)
 
 ## StringBuffer、StringBuilder
 
