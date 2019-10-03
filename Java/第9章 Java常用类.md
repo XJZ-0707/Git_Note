@@ -582,7 +582,7 @@ public class StringTest1 {
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/03/sting18-1570104804825.jpg)
 
 ```java
-    StringBuffer的常用方法：
+StringBuffer的常用方法：
 StringBuffer append(xxx)：提供了很多的append()方法，用于进行字符串拼接
 StringBuffer delete(int start,int end)：删除指定位置的内容
 StringBuffer replace(int start, int end, String str)：把[start,end)位置替换为str
@@ -602,7 +602,8 @@ public void setCharAt(int n ,char ch)
         插：insert(int offset, xxx)
         长度：length();
         *遍历：for() + charAt() / toString()
-     */
+
+
     @Test
     public void test2(){
         StringBuffer s1 = new StringBuffer("abc");
