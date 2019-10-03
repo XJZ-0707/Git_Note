@@ -512,7 +512,7 @@ public class StringTest1 {
 
 
 ## 关于StringBuffer和StringBuilder的使用
-
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/03/string15-1570104452326.jpg)
 
 
 
