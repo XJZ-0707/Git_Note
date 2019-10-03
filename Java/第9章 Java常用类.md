@@ -609,7 +609,7 @@ public void setCharAt(int n ,char ch)
         StringBuffer s1 = new StringBuffer("abc");
         s1.append(1);
         s1.append('1');
-        System.out.println(s1);
+        System.out.println(s1);//abc11
 //        s1.delete(2,4);
 //        s1.replace(2,4,"hello");
 //        s1.insert(2,false);
