@@ -1094,6 +1094,11 @@ System.out.println(Arrays.toString(all));
 }
 }
 ```
+## 方式二：定制排序：java.util.Comparator
+
+```java
+
+```
 
 
 
