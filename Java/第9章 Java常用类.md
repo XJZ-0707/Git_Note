@@ -917,9 +917,47 @@ String的执行时间：347
 ## 瞬时：Instant
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/04/date11-1570192092989.jpg)
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/04/date10-1570191938946.jpg)
-```就AV
+```java
+  
+    Instant的使用
+    类似于 java.util.Date类
 
+    
+    @Test
+    public void test2(){
+        //now():获取本初子午线对应的标准时间
+        Instant instant = Instant.now();
+        System.out.println(instant);//2019-02-18T07:29:41.719Z
+
+        //添加时间的偏移量
+        OffsetDateTime offsetDateTime = instant.atOffset(ZoneOffset.ofHours(8));
+        System.out.println(offsetDateTime);//2019-02-18T15:32:50.611+08:00
+
+        //toEpochMilli():获取自1970年1月1日0时0分0秒（UTC）开始的毫秒数  ---> Date类的getTime()
+        long milli = instant.toEpochMilli();
+        System.out.println(milli);
+
+        //ofEpochMilli():通过给定的毫秒数，获取Instant实例  -->Date(long millis)
+        Instant instant1 = Instant.ofEpochMilli(1550475314878L);
+        System.out.println(instant1);
+    }
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
