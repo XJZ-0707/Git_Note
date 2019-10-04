@@ -660,6 +660,10 @@ public void setCharAt(int n ,char ch)
         System.out.println("String的执行时间：" + (endTime - startTime));
 
     }
+输出结果：
+StringBuffer的执行时间：10
+StringBuilder的执行时间：3
+String的执行时间：347
 
 ```
 
