@@ -671,6 +671,14 @@ String的执行时间：347
 
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/04/date1-1570171744243.jpg)
 ```java
+    //1.System类中的currentTimeMillis()
+    @Test
+    public void test1(){
+        long time = System.currentTimeMillis();
+        //返回当前时间与1970年1月1日0时0分0秒之间以毫秒为单位的时间差。
+        //称为时间戳
+        System.out.println(time);
+    }
 
 ```
 
