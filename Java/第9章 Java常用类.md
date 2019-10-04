@@ -773,6 +773,30 @@ String的执行时间：347
 ### 练习
 ```java
 
+    练习一：字符串"2020-09-08"转换为java.sql.Date
+
+    练习二："三天打渔两天晒网"   1990-01-01  xxxx-xx-xx 打渔？晒网？
+
+    举例：2020-09-08 ？ 总天数
+
+    总天数 % 5 == 1,2,3 : 打渔
+    总天数 % 5 == 4,0 : 晒网
+
+    总天数的计算？
+    方式一：( date2.getTime() - date1.getTime()) / (1000 * 60 * 60 * 24) + 1
+    方式二：1990-01-01  --> 2019-12-31  +  2020-01-01 -->2020-09-08
+     */
+    @Test
+    public void testExer() throws ParseException {
+        String birth = "2020-09-08";
+
+        SimpleDateFormat sdf1 = new SimpleDateFormat("yyyy-MM-dd");
+        Date date = sdf1.parse(birth);
+//        System.out.println(date);
+
+        java.sql.Date birthDate = new java.sql.Date(date.getTime());
+        System.out.println(birthDate);
+    }
 ```
 
 
