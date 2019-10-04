@@ -1058,6 +1058,29 @@ System.out.println("下一个工作日是：" + localDate);
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/04/compar1-1570202081247.jpg)
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/04/compare2-1570202116992.jpg)
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/04/compare3-1570202146189.jpg)
+```java
+class Goods implements Comparable {
+private String name;
+private double price;
+//按照价格，比较商品的大小
+@Override
+public int compareTo(Object o) {
+if(o instanceof Goods) {
+Goods other = (Goods) o;
+if (this.price > other.price) {
+return 1;
+} else if (this.price < other.price) {
+return -1;
+}
+return 0;
+}
+throw new RuntimeException("输入的数据类型不一致");
+}
+//构造器、getter、setter、toString()方法略
+}
+
+
+```
 
 
 
