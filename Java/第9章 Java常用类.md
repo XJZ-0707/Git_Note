@@ -1072,6 +1072,59 @@ System.out.println(zonedDateTime);
 ZonedDateTime zonedDateTime1 = ZonedDateTime.now(ZoneId.of("Asia/Tokyo"));
 System.out.println(zonedDateTime1);
 
+
+//Period:用于计算两个“日期”间隔，以年、月、日衡量
+LocalDate localDate = LocalDate.now();
+LocalDate localDate1 = LocalDate.of(2028, 3, 18);
+Period period = Period.between(localDate, localDate1);
+System.out.println(period);
+System.out.println(period.getYears());
+System.out.println(period.getMonths());
+System.out.println(period.getDays());
+Period period1 = period.withYears(2);
+System.out.println(period1);
+
+
+
+// TemporalAdjuster:时间校正器
+// 获取当前日期的下一个周日是哪天？
+TemporalAdjuster temporalAdjuster = TemporalAdjusters.next(DayOfWeek.SUNDAY);
+LocalDateTime localDateTime = LocalDateTime.now().with(temporalAdjuster);
+System.out.println(localDateTime);
+// 获取下一个工作日是哪天？
+LocalDate localDate = LocalDate.now().with(new TemporalAdjuster() {
+@Override
+public Temporal adjustInto(Temporal temporal) {
+LocalDate date = (LocalDate) temporal;
+if (date.getDayOfWeek().equals(DayOfWeek.FRIDAY)) {
+return date.plusDays(3);
+} else if (date.getDayOfWeek().equals(DayOfWeek.SATURDAY)) {
+return date.plusDays(2);
+} else {
+return date.plusDays(1);
+}
+}
+});
+System.out.println("下一个工作日是：" + localDate);
+9.3.5 参考：与传统日期处理的转换
+类 To 遗留类 From 遗留类
+java.time.Instant与java.util.Date Date.from(instant) date.toInstant()
+java.time.Instant与java.sql.Timestamp Timestamp.from(instant) timestamp.toInstant()
+java.time.ZonedDateTime与
+java.util.GregorianCalendar GregorianCalendar.from(zonedDateTime) cal.toZonedDateTime()
+java.time.LocalDate与java.sql.Time Date.valueOf(localDate) date.toLocalDate()
+java.time.LocalTime与java.sql.Time Date.valueOf(localDate) date.toLocalTime()
+java.time.LocalDateTime与
+java.sql.Timestamp Timestamp.valueOf(localDateTime) timestamp.toLocalDateTime()
+java.time.ZoneId与java.util.TimeZone Timezone.getTimeZone(id) timeZone.toZoneId()
+java.time.format.DateTimeFormatter与
+java.text.DateFormat formatter.toFormat() 无
+9.3 JDK8中新日期时间AP
+
+
+
+
+
 ```
 
 
