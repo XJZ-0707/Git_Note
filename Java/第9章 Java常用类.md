@@ -804,10 +804,10 @@ String的执行时间：347
 ## 4. java.util.Calendar(日历)类
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/04/date4-1570173603456.jpg)
 ```java
-
+    /*
     Calendar日历类(抽象类）的使用
 
-
+     */
     @Test
     public void testCalendar(){
         //1.实例化
@@ -818,30 +818,30 @@ String的执行时间：347
 
         //2.常用方法
         //get()
-        int days = calendar.get(Calendar.DAY_OF_MONTH);
+        int days = calendar.get(Calendar.DAY_OF_MONTH);//这个月的第几天
         System.out.println(days);
-        System.out.println(calendar.get(Calendar.DAY_OF_YEAR));
+        System.out.println(calendar.get(Calendar.DAY_OF_YEAR));//今年的第几天
 
         //set()
         //calendar可变性
         calendar.set(Calendar.DAY_OF_MONTH,22);
         days = calendar.get(Calendar.DAY_OF_MONTH);
-        System.out.println(days);
+        System.out.println(days);//22
 
         //add()
         calendar.add(Calendar.DAY_OF_MONTH,-3);
         days = calendar.get(Calendar.DAY_OF_MONTH);
-        System.out.println(days);
+        System.out.println(days);//22-3=18
 
         //getTime():日历类---> Date
         Date date = calendar.getTime();
-        System.out.println(date);
+        System.out.println(date);//Sat Oct 19 15:26:15 CST 2019
 
         //setTime():Date ---> 日历类
         Date date1 = new Date();
         calendar.setTime(date1);
         days = calendar.get(Calendar.DAY_OF_MONTH);
-        System.out.println(days);
+        System.out.println(days);//4
 
     }
 ```
