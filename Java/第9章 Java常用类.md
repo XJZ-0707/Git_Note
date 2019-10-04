@@ -740,7 +740,6 @@ String的执行时间：347
 
     2.SimpleDateFormat的实例化
 
-     */
     @Test
     public void testSimpleDateFormat() throws ParseException {
         //实例化SimpleDateFormat:使用默认的构造器
