@@ -904,11 +904,11 @@ String的执行时间：347
         System.out.println(localDateTime2);
 
         //不可变性
-        LocalDateTime localDateTime3 = localDateTime.plusMonths(3);//加3
+        LocalDateTime localDateTime3 = localDateTime.plusMonths(3);//加3个月
         System.out.println(localDateTime);
         System.out.println(localDateTime3);
 
-        LocalDateTime localDateTime4 = localDateTime.minusDays(6);
+        LocalDateTime localDateTime4 = localDateTime.minusDays(6);//减6天
         System.out.println(localDateTime);
         System.out.println(localDateTime4);
     }
