@@ -1168,7 +1168,8 @@ public class CompareTest {
         System.out.println(Arrays.toString(arr));
     }
 
-    /*
+
+
     Comparator接口的使用：定制排序
     1.背景：
     当元素的类型没有实现java.lang.Comparable接口而又不方便修改代码，
@@ -1179,7 +1180,8 @@ public class CompareTest {
     如果返回0，表示相等；
     返回负整数，表示o1小于o2。
 
-     */
+
+
     @Test
     public void test3(){
         String[] arr = new String[]{"AA","CC","KK","MM","GG","JJ","DD"};
