@@ -682,6 +682,7 @@ String的执行时间：347
 
 ```
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/04/date2-1570172097587.jpg)
+
 ```java
   /*
     java.util.Date类
@@ -698,6 +699,8 @@ String的执行时间：347
         >如何实例化
         >如何将java.util.Date对象转换为java.sql.Date对象
      */
+
+
     @Test
     public void test2(){
         //构造器一：Date()：创建一个对应当前时间的Date对象
