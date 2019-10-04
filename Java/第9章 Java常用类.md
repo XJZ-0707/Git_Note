@@ -1108,20 +1108,7 @@ return date.plusDays(1);
 System.out.println("下一个工作日是：" + localDate);
 
 
-9.3.5 参考：与传统日期处理的转换
-类 To 遗留类 From 遗留类
-java.time.Instant与java.util.Date Date.from(instant) date.toInstant()
-java.time.Instant与java.sql.Timestamp Timestamp.from(instant) timestamp.toInstant()
-java.time.ZonedDateTime与
-java.util.GregorianCalendar GregorianCalendar.from(zonedDateTime) cal.toZonedDateTime()
-java.time.LocalDate与java.sql.Time Date.valueOf(localDate) date.toLocalDate()
-java.time.LocalTime与java.sql.Time Date.valueOf(localDate) date.toLocalTime()
-java.time.LocalDateTime与
-java.sql.Timestamp Timestamp.valueOf(localDateTime) timestamp.toLocalDateTime()
-java.time.ZoneId与java.util.TimeZone Timezone.getTimeZone(id) timeZone.toZoneId()
-java.time.format.DateTimeFormatter与
-java.text.DateFormat formatter.toFormat() 无
-9.3 JDK8中新日期时间AP
+
 
 
 
