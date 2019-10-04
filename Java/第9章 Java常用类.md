@@ -856,7 +856,8 @@ String的执行时间：347
         System.out.println(date1);//Tue Sep 08 00:00:00 GMT+08:00 2020
     }
 ```
-
+## 新时间日期API
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/04/date6-1570174810782.jpg)
 
 
 
