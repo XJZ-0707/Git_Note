@@ -1097,7 +1097,20 @@ System.out.println(Arrays.toString(all));
 ## 方式二：定制排序：java.util.Comparator
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/04/compare4-1570202316846.jpg)
 ```java
-
+Goods[] all = new Goods[4];
+all[0] = new Goods("War and Peace", 100);
+all[1] = new Goods("Childhood", 80);
+all[2] = new Goods("Scarlet and Black", 140);
+all[3] = new Goods("Notre Dame de Paris", 120);
+Arrays.sort(all, new Comparator() {
+@Override
+public int compare(Object o1, Object o2) {
+Goods g1 = (Goods) o1;
+Goods g2 = (Goods) o2;
+return g1.getName().compareTo(g2.getName());
+}
+});
+System.out.println(Arrays.toString(all));
 ```
 
 
