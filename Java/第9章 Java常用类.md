@@ -1003,7 +1003,7 @@ import org.junit.Test;
 import java.math.BigDecimal;
 import java.math.BigInteger;
 
-/**
+
  * 其他常用类的使用
  * 1.System
  * 2.Math
@@ -1011,7 +1011,7 @@ import java.math.BigInteger;
  *
  * @author shkstart
  * @create 2019 下午 6:23
- */
+
 public class OtherClassTest {
 
     @Test
