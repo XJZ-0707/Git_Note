@@ -1095,7 +1095,7 @@ System.out.println(Arrays.toString(all));
 }
 ```
 ## 方式二：定制排序：java.util.Comparator
-
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/04/compare4-1570202316846.jpg)
 ```java
 
 ```
