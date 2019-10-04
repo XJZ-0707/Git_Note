@@ -804,10 +804,9 @@ String的执行时间：347
 ## 4. java.util.Calendar(日历)类
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/04/date4-1570173603456.jpg)
 ```java
-    /*
+
     Calendar日历类(抽象类）的使用
 
-     */
     @Test
     public void testCalendar(){
         //1.实例化
