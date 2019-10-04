@@ -785,7 +785,8 @@ String的执行时间：347
     总天数的计算？
     方式一：( date2.getTime() - date1.getTime()) / (1000 * 60 * 60 * 24) + 1
     方式二：1990-01-01  --> 2019-12-31  +  2020-01-01 -->2020-09-08
-     */
+
+
     @Test
     public void testExer() throws ParseException {
         String birth = "2020-09-08";
