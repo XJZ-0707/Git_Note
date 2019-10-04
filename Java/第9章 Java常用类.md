@@ -996,7 +996,6 @@ String的执行时间：347
 ## 其它API
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/04/date13-1570194034046.jpg)
 
-
 ```java
 //ZoneId:类中包含了所有的时区信息
 // ZoneId的getAvailableZoneIds():获取所有的ZoneId
