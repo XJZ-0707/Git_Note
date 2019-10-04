@@ -1130,13 +1130,9 @@ import java.util.Comparator;
  *    Comparator接口属于临时性的比较。
  *
  *
- *
- *
- *thor shkstart
- * @create 2019 下午 4:41
- */
+
 public class CompareTest {
-    /*
+   
     Comparable接口的使用举例：  自然排序
     1.像String、包装类等实现了Comparable接口，重写了compareTo(obj)方法，给出了比较两个对象大小的方式。
     2.像String、包装类重写compareTo()方法以后，进行了从小到大的排列
@@ -1146,7 +1142,8 @@ public class CompareTest {
         如果当前对象this等于形参对象obj，则返回零。
     4. 对于自定义类来说，如果需要排序，我们可以让自定义类实现Comparable接口，重写compareTo(obj)方法。
        在compareTo(obj)方法中指明如何排序
-     */
+
+
     @Test
     public void test1(){
         String[] arr = new String[]{"AA","CC","KK","MM","GG","JJ","DD"};
