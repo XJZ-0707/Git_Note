@@ -945,12 +945,10 @@ String的执行时间：347
 ##  格式化与解析日期或时间
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/04/date12-1570192395613.jpg)
 ```java
-
     DateTimeFormatter:格式化或解析日期、时间
     类似于SimpleDateFormat
 
-     */
-
+   
     @Test
     public void test3(){
 //        方式一：预定义的标准格式。如：ISO_LOCAL_DATE_TIME;ISO_LOCAL_DATE;ISO_LOCAL_TIME
