@@ -1116,18 +1116,6 @@ System.out.println(Arrays.toString(all));
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 #  其他常用类的使用
  * 1.System
  * 2.Math
