@@ -1240,6 +1240,9 @@ public class CompareTest {
 
 #  其他常用类的使用 System类 Math类 BigInteger 和 BigDecimal
 ## 1.System
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/05/system01-1570288758504.jpg)
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/05/system02-1570288786904.jpg)
+
 
 
 
