@@ -1263,7 +1263,21 @@ System.out.println("user的dir:" + userDir);
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/05/math01-1570288846143.jpg)
 
 ## 3.BigInteger 和 BigDecimal
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/05/BigInteger01-1570288882636.jpg)
+```java
+ 常用方法
+ public BigInteger abs()：返回此 BigInteger 的绝对值的 BigInteger。
+ BigInteger add(BigInteger val) ：返回其值为 (this + val) 的 BigInteger
+ BigInteger subtract(BigInteger val) ：返回其值为 (this - val) 的 BigInteger
+ BigInteger multiply(BigInteger val) ：返回其值为 (this * val) 的 BigInteger
+ BigInteger divide(BigInteger val) ：返回其值为 (this / val) 的 BigInteger。整数
+相除只保留整数部分。
+ BigInteger remainder(BigInteger val) ：返回其值为 (this % val) 的 BigInteger。
+ BigInteger[] divideAndRemainder(BigInteger val)：返回包含 (this / val) 后跟
+(this % val) 的两个 BigInteger 的数组。
+ BigInteger pow(int exponent) ：返回其值为 (thisexponent) 的 BigInteger。
 
+```
 
 
 
