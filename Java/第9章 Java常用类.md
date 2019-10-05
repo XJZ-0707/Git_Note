@@ -1259,11 +1259,9 @@ System.out.println("user的home:" + userHome);
 String userDir = System.getProperty("user.dir");
 System.out.println("user的dir:" + userDir);
 ```
-
-
-
-
 ## 2.Math
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/05/math01-1570288846143.jpg)
+
 ## 3.BigInteger 和 BigDecimal
  
 
