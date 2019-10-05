@@ -1242,6 +1242,23 @@ public class CompareTest {
 ## 1.System
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/05/system01-1570288758504.jpg)
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/05/system02-1570288786904.jpg)
+* system代码示例
+```java
+String javaVersion = System.getProperty("java.version");
+System.out.println("java的version:" + javaVersion);
+String javaHome = System.getProperty("java.home");
+System.out.println("java的home:" + javaHome);
+String osName = System.getProperty("os.name");
+System.out.println("os的name:" + osName);
+String osVersion = System.getProperty("os.version");
+System.out.println("os的version:" + osVersion);
+String userName = System.getProperty("user.name");
+System.out.println("user的name:" + userName);
+String userHome = System.getProperty("user.home");
+System.out.println("user的home:" + userHome);
+String userDir = System.getProperty("user.dir");
+System.out.println("user的dir:" + userDir);
+```
 
 
 
