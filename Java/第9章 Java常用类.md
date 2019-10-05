@@ -1267,12 +1267,17 @@ System.out.println("user的dir:" + userDir);
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/05/BigInteger02-1570288952520.jpg)
 
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/05/BigInteger03-1570288995570.jpg)
-
-
-
-
-
-
+```java
+public void testBigInteger() {
+BigInteger bi = new BigInteger("12433241123");
+BigDecimal bd = new BigDecimal("12435.351");
+BigDecimal bd2 = new BigDecimal("11");
+System.out.println(bi);
+// System.out.println(bd.divide(bd2));
+System.out.println(bd.divide(bd2, BigDecimal.ROUND_HALF_UP));
+System.out.println(bd.divide(bd2, 15, BigDecimal.ROUND_HALF_UP));
+}
+```
 
 ```java
 package com_2.day04.java;
