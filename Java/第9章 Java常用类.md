@@ -1243,6 +1243,15 @@ public class CompareTest {
  * 2.Math
  * 3.BigInteger 和 BigDecimal
  
+
+
+
+
+
+
+
+
+
 ```java
 package com_2.day04.java;
 
@@ -1301,22 +1310,6 @@ public class OtherClassTest {
 }
 
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
