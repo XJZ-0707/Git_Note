@@ -1234,6 +1234,9 @@ public class CompareTest {
 
 }
 
+
+
+
 * 商品类：Goods
 package com_2.day04.java;
 
