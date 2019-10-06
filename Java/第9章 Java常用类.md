@@ -1341,7 +1341,7 @@ public class OtherClassTest {
 ```
 
 
-*商品类：Goods
+* 商品类：Goods
 package com_2.day04.java;
 
 /**
@@ -1399,7 +1399,8 @@ public class Goods implements  Comparable{
                 return -1;
             }else{
 //                return 0;
-               return -this.name.compareTo(goods.name);
+               return this.name.compareTo(goods.name);
+//              return -this.name.compareTo(goods.name);//前面的这个-是代表从高到低
             }
             //方式二：
 //           return Double.compare(this.price,goods.price);
