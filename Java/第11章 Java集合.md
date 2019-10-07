@@ -327,3 +327,8 @@ public class Person {
 
 ## List 实现类之三：Vector
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/07/list06-1570459837475.jpg)
+
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/07/list07-1570459868333.jpg)
+
+## 11-5 Collection子接口之二：
+Set接口
