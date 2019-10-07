@@ -321,5 +321,5 @@ public class Person {
 ## List实现类之一：ArrayList
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/07/list03-1570459697341.jpg)
 ## List实现类之二：LinkedList
-
-
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/07/list04-1570459769451.jpg)
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/07/list05-1570459793983.jpg)
