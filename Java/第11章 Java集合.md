@@ -15,6 +15,8 @@
 ## 11-2 Collection接口方法
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/07/collection01-1570440575748.jpg)
 
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/07/collection03-1570440741328.jpg)
+
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/07/collection02-1570440707669.jpg)
 
 
