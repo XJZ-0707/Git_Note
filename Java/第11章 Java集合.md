@@ -334,8 +334,9 @@ public class Person {
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/07/set01-1570459914894.jpg)
 
 ### Set实现类之一：HashSet
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/07/set02-1570459982846.jpg)
 
-
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/07/set03-1570460004925.jpg)
 
 
 
