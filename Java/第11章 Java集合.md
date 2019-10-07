@@ -233,7 +233,7 @@ public class CollectionTest {
 
 
 ******
-如下是Person类，
+如下是Person类，配合上面的CollectionTest.java
 package com_2.day06.java;
 
 import java.util.Objects;
