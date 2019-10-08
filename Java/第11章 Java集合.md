@@ -309,7 +309,6 @@ public class Person {
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/07/Iterator04-1570459499459.jpg)
 
 
-
 ## iterator示例代码：
 ```java
 package com_2.day06.java;
