@@ -694,7 +694,7 @@ List subList(int fromIndex, int toIndex):返回从fromIndex到toIndex位置的�
 }
 
 ```
-* 小练习题：区分List中remove(int index)和remove(Object obj)，一个是删除
+* 小练习题：区分List中remove(int index)和remove(Object obj)，一个是删除索引，一个是删除对象
 ```java
 package com_2.day06.exer;
 
