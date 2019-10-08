@@ -310,7 +310,7 @@ public class Person {
 
 
 
-## 示例代码：
+## iterator示例代码：
 ```java
 package com_2.day06.java;
 import org.junit.Test;
