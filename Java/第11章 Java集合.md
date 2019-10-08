@@ -694,7 +694,42 @@ List subList(int fromIndex, int toIndex):返回从fromIndex到toIndex位置的�
 }
 
 ```
-* 小练习题
+* 小练习题：区分List中remove(int index)和remove(Object obj)，一个是删除
+```java
+package com_2.day06.exer;
+
+import org.junit.Test;
+
+import java.util.ArrayList;
+import java.util.List;
+
+/**
+ * @author shkstart
+ * @create 2019 下午 3:33
+ */
+public class ListExer {
+    /*
+    区分List中remove(int index)和remove(Object obj)
+     */
+    @Test
+    public void testListRemove() {
+        List list = new ArrayList();
+        list.add(1);
+        list.add(2);
+        list.add(3);
+        updateList(list);
+        System.out.println(list);//[2, 3]
+    }
+
+    private void updateList(List list) {
+//        list.remove(2);//[1,2]
+        list.remove(Integer.valueOf(1));//
+    }
+
+}
+
+```
+
 ## List实现类之二：LinkedList
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/07/list04-1570459769451.jpg)
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/07/list05-1570459793983.jpg)
