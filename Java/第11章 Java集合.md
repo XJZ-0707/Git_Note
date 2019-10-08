@@ -730,14 +730,7 @@ public class ListExer {
 
 ```
 
-## List实现类之二：LinkedList
-![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/07/list04-1570459769451.jpg)
-![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/07/list05-1570459793983.jpg)
 
-## List 实现类之三：Vector
-![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/07/list06-1570459837475.jpg)
-
-![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/07/list07-1570459868333.jpg)
 
 # 11-5 Collection子接口之二：Set接口
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/07/set01-1570459914894.jpg)
