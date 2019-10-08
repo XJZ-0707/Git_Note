@@ -512,7 +512,7 @@ import java.util.Arrays;
 import java.util.Iterator;
 import java.util.List;
 
-/**
+
  * 1. List接口框架
  *
  *    |----Collection接口：单列集合，用来存储一个一个的对象
@@ -573,10 +573,10 @@ import java.util.List;
  *
  * @author shkstart
  * @create 2019 上午 11:39
- */
+
+
 public class ListTest {
 
-    /*
 void add(int index, Object ele):在index位置插入ele元素
 boolean addAll(int index, Collection eles):从index位置开始将eles中的所有元素添加进来
 Object get(int index):获取指定index位置的元素
@@ -597,7 +597,8 @@ List subList(int fromIndex, int toIndex):返回从fromIndex到toIndex位置的�
      ② 增强for循环
      ③ 普通的循环
 
-     */
+
+
     @Test
     public void test3(){
         ArrayList list = new ArrayList();
