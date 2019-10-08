@@ -694,7 +694,7 @@ List subList(int fromIndex, int toIndex):返回从fromIndex到toIndex位置的�
 }
 
 ```
-
+* 小练习题
 ## List实现类之二：LinkedList
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/07/list04-1570459769451.jpg)
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/07/list05-1570459793983.jpg)
