@@ -423,8 +423,8 @@ public class IteratorTest {
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/07/Iterator05-1570459521998.jpg)
 
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/07/Iterator06-1570459552862.jpg)
-* 输出结果：
-
+* 练习题输出结果：
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/08/foreach01-1570524715502.jpg)
 ## foreach代码演示：
 ```java
 package com_2.day06.java;
