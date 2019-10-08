@@ -423,8 +423,8 @@ public class IteratorTest {
 ```
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/07/Iterator05-1570459521998.jpg)
 
-
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/07/Iterator06-1570459552862.jpg)
+
 
 # 11-4 Collection子接口之一：List接口
 
