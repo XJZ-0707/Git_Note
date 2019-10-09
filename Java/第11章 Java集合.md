@@ -955,6 +955,8 @@ public class User implements Comparable{
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/09/set07-1570625936442.jpg)
 
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/09/set09-1570626805350.jpg)
+https://www.cnblogs.com/yangecnu/p/Introduce-Red-Black-Tree.html
+
 
 
 
