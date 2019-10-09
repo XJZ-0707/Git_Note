@@ -755,6 +755,8 @@ public class ListExer {
 
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/09/hascode02-1570625243641.jpg)
 
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/09/set08-1570626043065.jpg)
+
 ### Set实现类之二：LinkedHashSet
 
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/09/set05-1570625852379.jpg)
