@@ -763,7 +763,7 @@ public class ListExer {
 
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/09/set06-1570625885035.jpg)
 
-### HashSet和
+### HashSet和LinkedHashSet的使用
 ```java
 package com_2.day06.java1;
 
@@ -863,6 +863,10 @@ public class SetTest {
         }
     }
 }
+
+
+
+
 
 ```
 
