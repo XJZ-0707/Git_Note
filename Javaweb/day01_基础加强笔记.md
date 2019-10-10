@@ -13,8 +13,8 @@
 		* 步骤：
 			1. 定义一个测试类(测试用例)
 				* 建议：
-					* 测试类名：被测试的类名Test		CalculatorTest
-					* 包名：xxx.xxx.xx.test		cn.itcast.test
+					* 测试类名：被测试的类名TestCalculatorTest
+					* 包名：xxx.xxx.xx.test	cn.itcast.test
 
 			2. 定义测试方法：可以独立运行
 				* 建议：
