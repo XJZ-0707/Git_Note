@@ -1161,6 +1161,7 @@ System.out.println("key是：" + entry.getKey() + "，value是：" + entry.getVa
 
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/11/map07-1570759257993.jpg)
 
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/11/map08-1570792686056.jpg)
 
 
 
