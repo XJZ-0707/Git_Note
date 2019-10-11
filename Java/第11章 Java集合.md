@@ -1191,7 +1191,7 @@ import org.junit.Test;
 import java.util.*;
 
 /**
- * 一、Map的实现类的结构以及实现 方法：
+ * 一、Map的实现类的结构以及实现方法：
  *  |----Map:双列数据，存储key-value对的数据   ---类似于高中的函数：y = f(x)
  *         |----HashMap:作为Map的主要实现类；线程不安全的，效率高；存储null的key和value
  *              |----LinkedHashMap:保证在遍历map元素时，可以按照添加的顺序实现遍历。
@@ -1436,3 +1436,4 @@ public class MapTest {
 }
 
 ```
+### Map实现类之三：TreeMap
