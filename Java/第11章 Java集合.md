@@ -1604,3 +1604,5 @@ public class User implements Comparable{
 ### Map实现类之五：Properties
 
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/11/map19-1570793756530.jpg)
+
+# 11-7 Collections工具类
