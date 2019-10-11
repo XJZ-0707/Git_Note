@@ -1517,4 +1517,8 @@ public class TreeMapTest {
 ```
 
 ### Map实现类之四：Hashtable
+
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/11/map18-1570793600402.jpg)
+
+### Map实现类之五：Properties
+
