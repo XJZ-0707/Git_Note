@@ -1182,6 +1182,7 @@ System.out.println("key是：" + entry.getKey() + "，value是：" + entry.getVa
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/11/map15-1570793233370.jpg)
 
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/11/map16-1570793251569.jpg)
+* Map的实现类的结构：
 ```java
 
 ```
