@@ -1606,3 +1606,5 @@ public class User implements Comparable{
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/11/map19-1570793756530.jpg)
 
 # 11-7 Collections工具类
+
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/11/collection04-1570793862432.jpg)
