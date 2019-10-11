@@ -1164,7 +1164,10 @@ System.out.println("key是：" + entry.getKey() + "，value是：" + entry.getVa
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/11/map08-1570792686056.jpg)
 
 * HashMap的存储结构：JDK 1.8之前
+
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/11/map09-1570792841802.jpg)
+
+![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/11/map10-1570792866174.jpg)
 
 
 
