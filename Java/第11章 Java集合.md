@@ -1616,7 +1616,7 @@ public class User implements Comparable{
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/11/collection06-1570793935277.jpg)
 
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/11/collection07-1570793958565.jpg)
-
+* Collections:操作Collection、Map的工具类
 ```java
 package com_2.day07.java;
 
