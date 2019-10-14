@@ -63,6 +63,11 @@
 
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/14/2019-10-14_191130-1571051624100.jpg)
 ![title](https://raw.githubusercontent.com/XJZ-0707/imge/master/gitnote/2019/10/14/%E6%95%B0%E6%8D%AE%E5%BA%9302-1571051985673.jpg)
+1.打开cmd窗口，输入show variables like 'character_set_%';
+2.因为操作系统是中文操作系统，默认使用的字符集是GB2312，所以需要把输出窗口使用的字符编码改成gb2312才能够正常显示中文。
+
+使用如下的命令设置输出窗口使用的字符编码：
+set character_set_results=gb2312;
 
 # SQL
 
